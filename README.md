@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jorge Ayllon.
 - 👀 I’m interested in Backend.
 - 🌱 I’m currently learning Node.js.
-- 💞️ I’m looking to collaborate on MEAN/MERN projects.
+- 💞️ I’m looking to collaborate on MEAN projects.
 - 📫 How to reach me https://www.linkedin.com/in/jorge-ayllon-7439a4196/
 
 <!---
