@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jorge Ayllon.
-- 👀 I’m interested in Backend.
-- 🌱 I’m currently learning dossier d'architecture.
-- 💞️ I’m looking to collaborate on MEAN projects.
+- 👀 I’m interested in !DevOp!.
+- 🌱 I’m currently learning Ansible and Docker.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/jorge-ayllon-7439a4196/
 
 <!---
