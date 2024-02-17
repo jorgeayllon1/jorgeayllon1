@@ -1,6 +1,6 @@
 # 👋 Hi I'm Jorge Ayllon
 - 👀 I’m interested in **DevOps**.
-- 🌱 I’m currently learning **Ansible** and **Docker**.
+- 🌱 I’m currently learning **Kubernetes** and **Docker**.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jorge-ayllon-7439a4196/).
 
